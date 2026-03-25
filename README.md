@@ -15,7 +15,7 @@
 
 <header>
     <h1>Photography Gallery</h1>
-    <p>By Houssam Mohammad Hassan</p>
+    <p>By Kamal slaiman</p>
 </header>
 
 <section class="gallery">
